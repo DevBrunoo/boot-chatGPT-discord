@@ -1,0 +1,20 @@
+{
+  "name": "zap-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "gpt": "^2.0.4",
+    "node": "^19.8.1",
+    "openai": "^3.2.1",
+    "puppeteer": "^19.8.2",
+    "venom-bot": "^4.3.7"
+  }
+}
